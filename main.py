@@ -3,9 +3,9 @@ FIXED_TYPES = {'GROUP_INPUT', 'GROUP_OUTPUT', 'OUTPUT_MATERIAL'}
 
 
 bl_info = {
-    "name": "Noodle Rope Sim",
-    "author": "Conifer",
-    "blender": (4, 0, 0),
+    "project_name": "blender_heavy_nodes",
+    "author": "imgpslol",
+    "blender": (5, 2, 2),
 }
 
 
